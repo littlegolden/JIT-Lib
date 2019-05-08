@@ -8,4 +8,4 @@
 
 [CC-BY-NC-SA 4.0：署名-非商业性使用-相同方式共享 4.0 国际](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
 
-**资料仅供参考**
+**资料仅供参考！其他版权均归属资料贡献者**
