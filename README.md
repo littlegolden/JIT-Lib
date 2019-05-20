@@ -10,7 +10,7 @@
 
 受[浙江大学](https://github.com/QSCTech/zju-icicles)、[北京大学](https://github.com/lib-pku/libpku)、[清华大学](https://github.com/Trinkle23897/thu-cst-cracker)等高校共享计划及[@柏吃支醉](https://space.bilibili.com/131111)知识共享计划的启发，决定建立本项目。
 
->（引用自 [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) ）**
+>（引用自 [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) ）
 >
 >来到一所大学，从第一次接触许多课，直到一门一门完成，这个过程中我们时常收集起许多资料和情报。
 >
@@ -35,7 +35,7 @@
 
    如：想要下载五年制专转本下“2019年考试大纲”文件夹，单击该文件夹，网页跳转进入该文件夹后，复制该文件夹的网址:https://github.com/CY-YH/JIT-Lib/tree/master/五年制专转本/2019年考试大纲 粘贴入DownGit中，选择download即可。
 
-3. 若想**下载特定的文件**，单击该文件，网页跳转至该文件，如果有Download按钮则可直接下载；若无Download按钮，则右键单击Raw，选择另存链接文件（不同浏览器显示不一样，本示例用的 Safari 浏览器的选项为“下载链接文件”）。
+3. 若想**下载特定的文件**，单击该文件，网页跳转至该文件，如果有Download按钮则可直接下载；若无Download按钮，则右键单击Raw，选择另存链接文件（不同浏览器显示不一样，本示例用的 Chrome 浏览器的选项为“链接另存为”）。
    ![](https://github.com/CY-YH/JIT-Lib/blob/master/readme.assets/master_readme_downloadFile.png)
    
 ## 许可
