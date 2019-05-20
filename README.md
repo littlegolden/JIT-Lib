@@ -1,14 +1,14 @@
 # 金陵科技学院课程共享计划
 
-[![](https://img.shields.io/github/watchers/CY-YH/JIT-Lib.svg?style=flat)](https://github.com/CY-YH/JIT-Lib/watchers){:target="_blank"}
-[![](https://img.shields.io/github/stars/CY-YH/JIT-Lib.svg?style=flat)](https://github.com/CY-YH/JIT-Lib/stargazers){:target="_blank"}
-[![](https://img.shields.io/github/forks/CY-YH/JIT-Lib.svg?style=flat)](https://github.com/CY-YH/JIT-Lib/network/members){:target="_blank"}
-[![](https://img.shields.io/github/issues-pr-closed-raw/CY-YH/JIT-Lib.svg?style=flat)](https://github.com/CY-YH/JIT-Lib/issues){:target="_blank"}
-![](https://img.shields.io/github/repo-size/CY-YH/JIT-Lib.svg?style=flat){:target="_blank"}
+[![](https://img.shields.io/github/watchers/CY-YH/JIT-Lib.svg?style=flat)](https://github.com/CY-YH/JIT-Lib/watchers)
+[![](https://img.shields.io/github/stars/CY-YH/JIT-Lib.svg?style=flat)](https://github.com/CY-YH/JIT-Lib/stargazers)
+[![](https://img.shields.io/github/forks/CY-YH/JIT-Lib.svg?style=flat)](https://github.com/CY-YH/JIT-Lib/network/members)
+[![](https://img.shields.io/github/issues-pr-closed-raw/CY-YH/JIT-Lib.svg?style=flat)](https://github.com/CY-YH/JIT-Lib/issues)
+![](https://img.shields.io/github/repo-size/CY-YH/JIT-Lib.svg?style=flat)
 
 ## 前言
 
-受[浙江大学](https://github.com/QSCTech/zju-icicles)、[北京大学](https://github.com/lib-pku/libpku)、[清华大学](https://github.com/Trinkle23897/thu-cst-cracker)等高校共享计划及[@柏吃支醉](https://space.bilibili.com/131111)知识共享计划的启发，决定建立本项目。
+受<a href="https://www.cnblogs.com/dunitian/p/4822808.html#ai" target="_blank">链接</a>、[浙江大学](https://github.com/QSCTech/zju-icicles)、[北京大学](https://github.com/lib-pku/libpku)、[清华大学](https://github.com/Trinkle23897/thu-cst-cracker)等高校共享计划及[@柏吃支醉](https://space.bilibili.com/131111)知识共享计划的启发，决定建立本项目。
 
 >（引用自 [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) ）
 >
