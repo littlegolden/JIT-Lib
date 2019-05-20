@@ -1,7 +1,6 @@
 # 金陵科技学院课程共享计划
 
 [![](https://img.shields.io/github/watchers/CY-YH/JIT-Lib.svg?style=flat)](https://github.com/CY-YH/JIT-Lib/watchers)
-[![](https://img.shields.io/github/watching/CY-YH/JIT-Lib.svg?style=flat)](https://github.com/CY-YH/JIT-Lib/watching)
 [![](https://img.shields.io/github/stars/CY-YH/JIT-Lib.svg?style=flat)](https://github.com/CY-YH/JIT-Lib/stargazers)
 [![](https://img.shields.io/github/forks/CY-YH/JIT-Lib.svg?style=flat)](https://github.com/CY-YH/JIT-Lib/network/members)
 [![](https://img.shields.io/github/issues-pr-closed-raw/CY-YH/JIT-Lib.svg?style=flat)](https://github.com/CY-YH/JIT-Lib/issues)
