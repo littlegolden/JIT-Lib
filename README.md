@@ -2,7 +2,7 @@
 
 ## 前言
 
-受[浙江大学](https://github.com/QSCTech/zju-icicles)、[北京大学](https://github.com/lib-pku/libpku)、[清华大学](https://github.com/Trinkle23897/thu-cst-cracker)等高校共享计划的启发，以及对[@柏吃支醉的知识共享计划](https://github.com/lib-pku/libpku)的认同，决定建立本项目。
+受[浙江大学](https://github.com/QSCTech/zju-icicles)、[北京大学](https://github.com/lib-pku/libpku)、[清华大学](https://github.com/Trinkle23897/thu-cst-cracker)等高校共享计划及[@柏吃支醉的知识共享计划](https://github.com/lib-pku/libpku)的启发，决定建立本项目。
 
 ## 许可
 
