@@ -36,7 +36,7 @@
    如：想要下载57-网络空间安全学院branch下“参考书籍”文件夹，单击该文件夹，网页跳转进入该文件夹后，复制该文件夹的网址:https://github.com/zjdx1998/seucourseshare/tree/57-网络空间安全学院/参考书籍 粘贴入DownGit中，选择download即可。
 
 3. 若想下载特定的文件，单击该文件，网页跳转至该文件，如果有Download按钮则可直接下载；若无Download按钮，则右键单击Raw，选择另存链接文件（不同浏览器显示不一样，本示例用的 Safari 浏览器的选项为“下载链接文件”）。
-   ![](https://github.com/CY-YH/JIT-Lib/blob/master/readme.assets/master_readme_downloadFile.png)
+   ![](https://github.com/CY-YH/JIT-Lib/blob/master/readme.assets/master_readme_recourses_downloadFile.png)
    
 ## 许可
 
