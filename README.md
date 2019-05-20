@@ -33,7 +33,7 @@
 
 2. 若要**下载单个文件夹**，复制该文件夹的网址，粘贴入[DownGit](https://minhaskamal.github.io/DownGit/#/home)中，选择download即可；
 
-   如：想要下载57-网络空间安全学院branch下“参考书籍”文件夹，单击该文件夹，网页跳转进入该文件夹后，复制该文件夹的网址:https://github.com/CY-YH/JIT-Lib/五年制专转本/2019年考试大纲 粘贴入DownGit中，选择download即可。
+   如：想要下载五年制专转本下“2019年考试大纲”文件夹，单击该文件夹，网页跳转进入该文件夹后，复制该文件夹的网址:https://github.com/CY-YH/JIT-Lib/tree/master/%E4%BA%94%E5%B9%B4%E5%88%B6%E4%B8%93%E8%BD%AC%E6%9C%AC/2019%E5%B9%B4%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B2 粘贴入DownGit中，选择download即可。
 
 3. 若想**下载特定的文件**，单击该文件，网页跳转至该文件，如果有Download按钮则可直接下载；若无Download按钮，则右键单击Raw，选择另存链接文件（不同浏览器显示不一样，本示例用的 Safari 浏览器的选项为“下载链接文件”）。
    ![](https://github.com/CY-YH/JIT-Lib/blob/master/readme.assets/master_readme_downloadFile.png)
