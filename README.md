@@ -28,7 +28,7 @@
 
 ## 使用方法
 >（引用自 [zjdx1998/seucourseshare](https://github.com/zjdx1998/seucourseshare/) ） 
-1. 若要**下载整个branch**，点击Clone or download, 并选择Download ZIP;
+1. 若要**[下载整个branch]()**，点击Clone or download, 并选择Download ZIP;
    ![](https://github.com/CY-YH/JIT-Lib/blob/master/readme.assets/master_readme_downloadBranch.png)
 
 2. 若要**下载单个文件夹**，复制该文件夹的网址，粘贴入[DownGit](https://minhaskamal.github.io/DownGit/#/home)中，选择download即可；
