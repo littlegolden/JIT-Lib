@@ -40,15 +40,15 @@
    
 ## 许可
 
-[CC-BY-NC-SA 4.0：署名-非商业性使用-相同方式共享 4.0 国际](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
+[(Creative Commons-BY-NC-SA 4.0) 知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
 
-**其他版权仍均归属于各资料贡献者**
+>资料仅供参考！严禁用于商业用途（目的）
+
+相关权利仍均归属于各资料贡献者
 
 ## 声明
 
-**资料仅供参考！严禁用于商业用途（目的）**
-
-***若有任何侵权内容，请在issues下指出，非常感谢。
+***若有任何侵权内容，麻烦您在Issues下发送必要的信息，非常感谢，给您带来不便还请您谅解。**
 
 ## 更新日志
 
