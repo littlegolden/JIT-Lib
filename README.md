@@ -1,10 +1,10 @@
 # 金陵科技学院课程共享计划
 
-[![](https://img.shields.io/github/watchers/CY-YH/JIT-Lib.svg?style=flat)](https://github.com/CY-YH/JIT-Lib/watchers)
-[![](https://img.shields.io/github/stars/CY-YH/JIT-Lib.svg?style=flat)](https://github.com/CY-YH/JIT-Lib/stargazers)
-[![](https://img.shields.io/github/forks/CY-YH/JIT-Lib.svg?style=flat)](https://github.com/CY-YH/JIT-Lib/network/members)
-[![](https://img.shields.io/github/issues-pr-closed-raw/CY-YH/JIT-Lib.svg?style=flat)](https://github.com/CY-YH/JIT-Lib/issues)
-![](https://img.shields.io/github/repo-size/CY-YH/JIT-Lib.svg?style=flat)
+[![](https://img.shields.io/github/watchers/CY-YH/JIT-Lib.svg?style=flat)](https://github.com/CY-YH/JIT-Lib/watchers){:target="_blank"}
+[![](https://img.shields.io/github/stars/CY-YH/JIT-Lib.svg?style=flat)](https://github.com/CY-YH/JIT-Lib/stargazers){:target="_blank"}
+[![](https://img.shields.io/github/forks/CY-YH/JIT-Lib.svg?style=flat)](https://github.com/CY-YH/JIT-Lib/network/members){:target="_blank"}
+[![](https://img.shields.io/github/issues-pr-closed-raw/CY-YH/JIT-Lib.svg?style=flat)](https://github.com/CY-YH/JIT-Lib/issues){:target="_blank"}
+![](https://img.shields.io/github/repo-size/CY-YH/JIT-Lib.svg?style=flat){:target="_blank"}
 
 ## 前言
 
