@@ -6,7 +6,7 @@
 [![](https://img.shields.io/github/issues-pr-closed-raw/CY-YH/JIT-Lib.svg?style=flat)](https://github.com/CY-YH/JIT-Lib/issues)
 ![](https://img.shields.io/github/repo-size/CY-YH/JIT-Lib.svg?style=flat)
 
-## 前言
+## 前言 - Perface
 
 受[浙江大学](https://github.com/QSCTech/zju-icicles)、[北京大学](https://github.com/lib-pku/libpku)、[清华大学](https://github.com/Trinkle23897/thu-cst-cracker)等高校共享计划及[@柏吃支醉](https://space.bilibili.com/131111)知识共享计划的启发，决定建立本项目。
 
@@ -26,7 +26,7 @@
 
 创建该项目的目的是为了**帮助**大家学习,而非促使大家堕落。
 
-## 使用方法
+## 使用方法 - Useage
 >（引用自 [zjdx1998/seucourseshare](https://github.com/zjdx1998/seucourseshare/) ） 
 1. 若要**下载整个branch**，点击Clone or download, 并选择Download ZIP;
    ![](https://github.com/CY-YH/JIT-Lib/blob/master/readme.assets/master_readme_downloadBranch.png)
@@ -38,7 +38,7 @@
 3. 若想**下载特定的文件**，单击该文件，网页跳转至该文件，如果有Download按钮则可直接下载；若无Download按钮，则右键单击Raw，选择另存链接文件（不同浏览器显示不一样，本示例用的 Chrome 浏览器的选项为“链接另存为”）。
    ![](https://github.com/CY-YH/JIT-Lib/blob/master/readme.assets/master_readme_downloadFile.png)
    
-## 许可
+## 许可 - License
 
 [(Creative Commons-BY-NC-SA 4.0) 知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
 
@@ -46,11 +46,11 @@
 
 相关权利仍均归属于各资料贡献者
 
-## 声明
+## 声明 - Disclaimer
 
 **若有任何侵权内容，麻烦您在Issues下发送必要的信息，非常感谢，给您带来不便还请您谅解。**
 
-## 更新日志
+## 更新日志 - ChangeLog
 
 | 日期                   | 内容           |
 | ---------------------- | -------------- |
