@@ -1,0 +1,45 @@
+E:\_Teaching\2016\CAB201 sem 1 2016\Workshops\Week5\PushCounter\PushCounter\bin\Debug\PushCounter.exe.config
+E:\_Teaching\2016\CAB201 sem 1 2016\Workshops\Week5\PushCounter\PushCounter\bin\Debug\PushCounter.exe
+E:\_Teaching\2016\CAB201 sem 1 2016\Workshops\Week5\PushCounter\PushCounter\bin\Debug\PushCounter.pdb
+E:\_Teaching\2016\CAB201 sem 1 2016\Workshops\Week5\PushCounter\PushCounter\obj\Debug\PushCounter.csprojResolveAssemblyReference.cache
+E:\_Teaching\2016\CAB201 sem 1 2016\Workshops\Week5\PushCounter\PushCounter\obj\Debug\PushCounter.Properties.Resources.resources
+E:\_Teaching\2016\CAB201 sem 1 2016\Workshops\Week5\PushCounter\PushCounter\obj\Debug\PushCounter.csproj.GenerateResource.Cache
+E:\_Teaching\2016\CAB201 sem 1 2016\Workshops\Week5\PushCounter\PushCounter\obj\Debug\PushCounter.exe
+E:\_Teaching\2016\CAB201 sem 1 2016\Workshops\Week5\PushCounter\PushCounter\obj\Debug\PushCounter.pdb
+E:\_Teaching\2016\CAB201 sem 1 2016\Workshops\Week5\PushCounter\PushCounter\obj\Debug\PushCounter.Form1.resources
+D:\_Teaching\2016\CAB201 sem 1 2016\Workshops\Week5\PushCounterDT\PushCounter\bin\Debug\PushCounter.exe.config
+D:\_Teaching\2016\CAB201 sem 1 2016\Workshops\Week5\PushCounterDT\PushCounter\obj\Debug\PushCounter.exe
+D:\_Teaching\2016\CAB201 sem 1 2016\Workshops\Week5\PushCounterDT\PushCounter\obj\Debug\PushCounter.pdb
+E:\_Teaching\2016\2016,2_ITD121 sem 2 2016\_Learning Resources\Workshops\Week5\PushCounterDT\PushCounter\bin\Debug\PushCounter.exe.config
+E:\_Teaching\2016\2016,2_ITD121 sem 2 2016\_Learning Resources\Workshops\Week5\PushCounterDT\PushCounter\obj\Debug\PushCounter.exe
+E:\_Teaching\2016\2016,2_ITD121 sem 2 2016\_Learning Resources\Workshops\Week5\PushCounterDT\PushCounter\obj\Debug\PushCounter.pdb
+E:\_Teaching\2016\2016,2_ITD121 sem 2 2016\_Learning Resources\Workshops\Week5\PushCounter_SOLUTION\PushCounter\bin\Debug\PushCounter.exe.config
+E:\_Teaching\2016\2016,2_ITD121 sem 2 2016\_Learning Resources\Workshops\Week5\PushCounter_SOLUTION\PushCounter\obj\Debug\PushCounter.exe
+E:\_Teaching\2016\2016,2_ITD121 sem 2 2016\_Learning Resources\Workshops\Week5\PushCounter_SOLUTION\PushCounter\obj\Debug\PushCounter.pdb
+E:\_Teaching\2016\2016,2_ITD121 sem 2 2016\_Learning Resources\Workshops\Week6\PushCounter_EXTENDED SOLUTION\PushCounter\bin\Debug\PushCounter.exe.config
+E:\_Teaching\2016\2016,2_ITD121 sem 2 2016\_Learning Resources\Workshops\Week6\PushCounter_EXTENDED SOLUTION\PushCounter\obj\Debug\PushCounter.exe
+E:\_Teaching\2016\2016,2_ITD121 sem 2 2016\_Learning Resources\Workshops\Week6\PushCounter_EXTENDED SOLUTION\PushCounter\obj\Debug\PushCounter.pdb
+E:\_Teaching\2016\2016,2_ITD121 sem 2 2016\_Learning Resources\Workshops\Week6\PushCounter_EXTENDED SOLUTION\PushCounter\bin\Debug\PushCounter.exe
+E:\_Teaching\2016\2016,2_ITD121 sem 2 2016\_Learning Resources\Workshops\Week6\PushCounter_EXTENDED SOLUTION\PushCounter\bin\Debug\PushCounter.pdb
+E:\_Teaching\2016\2016,2_ITD121 sem 2 2016\_Learning Resources\Workshops\Week6\PushCounter_EXTENDED SOLUTION\PushCounter\obj\Debug\PushCounter.csprojResolveAssemblyReference.cache
+E:\_Teaching\2016\2016,2_ITD121 sem 2 2016\_Learning Resources\Workshops\Week6\PushCounter_EXTENDED SOLUTION\PushCounter\obj\Debug\PushCounter.Form1.resources
+E:\_Teaching\2016\2016,2_ITD121 sem 2 2016\_Learning Resources\Workshops\Week6\PushCounter_EXTENDED SOLUTION\PushCounter\obj\Debug\PushCounter.Properties.Resources.resources
+E:\_Teaching\2016\2016,2_ITD121 sem 2 2016\_Learning Resources\Workshops\Week6\PushCounter_EXTENDED SOLUTION\PushCounter\obj\Debug\PushCounter.csproj.GenerateResource.Cache
+E:\_Teaching\2016\2016, TP3_ITD121\_Learning Resources\Week6\Workshop\PushCounter_EXTENDED SOLUTION\PushCounter\bin\Debug\PushCounter.exe.config
+E:\_Teaching\2016\2016, TP3_ITD121\_Learning Resources\Week6\Workshop\PushCounter_EXTENDED SOLUTION\PushCounter\obj\Debug\PushCounter.exe
+E:\_Teaching\2016\2016, TP3_ITD121\_Learning Resources\Week6\Workshop\PushCounter_EXTENDED SOLUTION\PushCounter\obj\Debug\PushCounter.pdb
+E:\_Teaching\2016\2016, TP3_ITD121\_Learning Resources\Week6\Workshop\PushCounter_EXTENDED SOLUTION\PushCounter\bin\Debug\PushCounter.exe
+E:\_Teaching\2016\2016, TP3_ITD121\_Learning Resources\Week6\Workshop\PushCounter_EXTENDED SOLUTION\PushCounter\bin\Debug\PushCounter.pdb
+E:\_Teaching\2016\2016, TP3_ITD121\_Learning Resources\Week6\Workshop\PushCounter_EXTENDED SOLUTION\PushCounter\obj\Debug\PushCounter.csprojResolveAssemblyReference.cache
+E:\_Teaching\2016\2016, TP3_ITD121\_Learning Resources\Week6\Workshop\PushCounter_EXTENDED SOLUTION\PushCounter\obj\Debug\PushCounter.Form1.resources
+E:\_Teaching\2016\2016, TP3_ITD121\_Learning Resources\Week6\Workshop\PushCounter_EXTENDED SOLUTION\PushCounter\obj\Debug\PushCounter.Properties.Resources.resources
+E:\_Teaching\2016\2016, TP3_ITD121\_Learning Resources\Week6\Workshop\PushCounter_EXTENDED SOLUTION\PushCounter\obj\Debug\PushCounter.csproj.GenerateResource.Cache
+E:\_Teaching\2017\2017, TP1_ITD121\_Learning Resources\Week6\Prac\PushCounter_EXTENDED SOLUTION\PushCounter\bin\Debug\PushCounter.exe.config
+E:\_Teaching\2017\2017, TP1_ITD121\_Learning Resources\Week6\Prac\PushCounter_EXTENDED SOLUTION\PushCounter\obj\Debug\PushCounter.exe
+E:\_Teaching\2017\2017, TP1_ITD121\_Learning Resources\Week6\Prac\PushCounter_EXTENDED SOLUTION\PushCounter\obj\Debug\PushCounter.pdb
+E:\_Teaching\2017\2017, TP1_ITD121\_Learning Resources\Week6\Prac\PushCounter_EXTENDED SOLUTION\PushCounter\bin\Debug\PushCounter.exe
+E:\_Teaching\2017\2017, TP1_ITD121\_Learning Resources\Week6\Prac\PushCounter_EXTENDED SOLUTION\PushCounter\bin\Debug\PushCounter.pdb
+E:\_Teaching\2017\2017, TP1_ITD121\_Learning Resources\Week6\Prac\PushCounter_EXTENDED SOLUTION\PushCounter\obj\Debug\PushCounter.csprojResolveAssemblyReference.cache
+E:\_Teaching\2017\2017, TP1_ITD121\_Learning Resources\Week6\Prac\PushCounter_EXTENDED SOLUTION\PushCounter\obj\Debug\PushCounter.Form1.resources
+E:\_Teaching\2017\2017, TP1_ITD121\_Learning Resources\Week6\Prac\PushCounter_EXTENDED SOLUTION\PushCounter\obj\Debug\PushCounter.Properties.Resources.resources
+E:\_Teaching\2017\2017, TP1_ITD121\_Learning Resources\Week6\Prac\PushCounter_EXTENDED SOLUTION\PushCounter\obj\Debug\PushCounter.csproj.GenerateResource.Cache

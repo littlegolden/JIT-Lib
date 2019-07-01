@@ -1,0 +1,5 @@
+E:\_Teaching\2016\2016,2_ITD121 sem 2 2016\_Learning Resources\Workshops\Week9\Debugging Workshop Files_Part 1\FrequentErrors_NullReferenceException\bin\Debug\FrequentErrors_NullReferenceException.exe
+E:\_Teaching\2016\2016,2_ITD121 sem 2 2016\_Learning Resources\Workshops\Week9\Debugging Workshop Files_Part 1\FrequentErrors_NullReferenceException\bin\Debug\FrequentErrors_NullReferenceException.pdb
+E:\_Teaching\2016\2016,2_ITD121 sem 2 2016\_Learning Resources\Workshops\Week9\Debugging Workshop Files_Part 1\FrequentErrors_NullReferenceException\obj\Debug\FrequentErrors_NullReferenceException.csprojResolveAssemblyReference.cache
+E:\_Teaching\2016\2016,2_ITD121 sem 2 2016\_Learning Resources\Workshops\Week9\Debugging Workshop Files_Part 1\FrequentErrors_NullReferenceException\obj\Debug\FrequentErrors_NullReferenceException.exe
+E:\_Teaching\2016\2016,2_ITD121 sem 2 2016\_Learning Resources\Workshops\Week9\Debugging Workshop Files_Part 1\FrequentErrors_NullReferenceException\obj\Debug\FrequentErrors_NullReferenceException.pdb

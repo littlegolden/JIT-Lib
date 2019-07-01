@@ -1,0 +1,42 @@
+C:\Documents and Settings\roggenka\My Documents\Visual Studio 2008\Projects\CoinApplication\CoinApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\roggenka\My Documents\Visual Studio 2008\Projects\CoinApplication\CoinApplication\bin\Debug\CoinApplication.exe
+C:\Documents and Settings\roggenka\My Documents\Visual Studio 2008\Projects\CoinApplication\CoinApplication\bin\Debug\CoinApplication.pdb
+C:\Documents and Settings\roggenka\My Documents\Visual Studio 2008\Projects\CoinApplication\CoinApplication\obj\Debug\CoinApplication.exe
+C:\Documents and Settings\roggenka\My Documents\Visual Studio 2008\Projects\CoinApplication\CoinApplication\obj\Debug\CoinApplication.pdb
+C:\INB270\Sandpit\CoinApplication\CoinApplication\obj\Debug\CoinApplication.exe
+C:\INB270\Sandpit\CoinApplication\CoinApplication\obj\Debug\CoinApplication.pdb
+C:\INB270\Sandpit\CoinApplication\CoinApplication\bin\Debug\CoinApplication.exe
+C:\INB270\Sandpit\CoinApplication\CoinApplication\bin\Debug\CoinApplication.pdb
+C:\INB270\Sandpit\CoinApplication\CoinApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\roggenka\Desktop\archive\INB270\2010 Sem 2\CoinApplication\CoinApplication\CoinApplication\obj\Debug\CoinApplication.exe
+C:\Documents and Settings\roggenka\Desktop\archive\INB270\2010 Sem 2\CoinApplication\CoinApplication\CoinApplication\obj\Debug\CoinApplication.pdb
+C:\Documents and Settings\roggenka\Desktop\archive\INB270\2010 Sem 2\Workshops\Week 8\Activity 5 Coin Application\CoinApplication\CoinApplication\obj\Debug\CoinApplication.exe
+C:\Documents and Settings\roggenka\Desktop\archive\INB270\2010 Sem 2\Workshops\Week 8\Activity 5 Coin Application\CoinApplication\CoinApplication\obj\Debug\CoinApplication.pdb
+C:\Documents and Settings\roggenka\Desktop\archive\INB270\2010 Sem 2\Workshops\Week 8\Activity 5 Coin Application\CoinApplication\CoinApplication\bin\Debug\CoinApplication.exe
+C:\Documents and Settings\roggenka\Desktop\archive\INB270\2010 Sem 2\Workshops\Week 8\Activity 5 Coin Application\CoinApplication\CoinApplication\bin\Debug\CoinApplication.pdb
+C:\Documents and Settings\roggenka\Desktop\archive\INB270\2010 Sem 2\Workshops\Week 8\Activity 5 Coin Application\CoinApplication\CoinApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\roggenka\Desktop\archive\INB270\2011 Sem 2\Workshop\Week 8\Activity 5 Coin Application\Activity 5 Coin Application\CoinApplication\CoinApplication\obj\Debug\CoinApplication.exe
+C:\Documents and Settings\roggenka\Desktop\archive\INB270\2011 Sem 2\Workshop\Week 8\Activity 5 Coin Application\Activity 5 Coin Application\CoinApplication\CoinApplication\obj\Debug\CoinApplication.pdb
+C:\Documents and Settings\roggenka\Desktop\archive\INB270\2012 Sem 1\Workshops\Week 8\Activity 5 Coin Application\Activity 5 Coin Application\CoinApplication\CoinApplication\obj\Debug\CoinApplication.exe
+C:\Documents and Settings\roggenka\Desktop\archive\INB270\2012 Sem 1\Workshops\Week 8\Activity 5 Coin Application\Activity 5 Coin Application\CoinApplication\CoinApplication\obj\Debug\CoinApplication.pdb
+C:\Users\roggenka\Desktop\archive\INB270\2014 Sem 1\INB270\Worksheets\Week 8\Activity 3 Coin Application\Activity 3 Coin Application\CoinApplication\CoinApplication\obj\Debug\CoinApplication.exe
+C:\Users\roggenka\Desktop\archive\INB270\2014 Sem 1\INB270\Worksheets\Week 8\Activity 3 Coin Application\Activity 3 Coin Application\CoinApplication\CoinApplication\obj\Debug\CoinApplication.pdb
+C:\Users\roggenka\Desktop\CAB201\2014 Semester 2\Worksheets\Week 7\Activity 4 Coin Application\CoinApplication\CoinApplication\obj\Debug\CoinApplication.exe
+C:\Users\roggenka\Desktop\CAB201\2014 Semester 2\Worksheets\Week 7\Activity 4 Coin Application\CoinApplication\CoinApplication\obj\Debug\CoinApplication.pdb
+C:\Users\roggenka\Desktop\CAB201\2015 Semester 1\Workshops\Week 7\Activity 3 Coin Application\CoinApplication\CoinApplication\obj\Debug\CoinApplication.exe
+C:\Users\roggenka\Desktop\CAB201\2015 Semester 1\Workshops\Week 7\Activity 3 Coin Application\CoinApplication\CoinApplication\obj\Debug\CoinApplication.pdb
+\\staffhome.qut.edu.au\staffgroupr$\roggenka\Desktop\CAB201 S2 2015\Workshops\Week 7\Activity 2 Coin Application\CoinApplication\CoinApplication\obj\Debug\CoinApplication.exe
+\\staffhome.qut.edu.au\staffgroupr$\roggenka\Desktop\CAB201 S2 2015\Workshops\Week 7\Activity 2 Coin Application\CoinApplication\CoinApplication\obj\Debug\CoinApplication.pdb
+\\staffhome.qut.edu.au\staffgroupr$\roggenka\Desktop\CAB201 S2 2015\Workshops\Week 7\Activity 2 Coin Application\CoinApplication\CoinApplication\bin\Debug\CoinApplication.exe
+\\staffhome.qut.edu.au\staffgroupr$\roggenka\Desktop\CAB201 S2 2015\Workshops\Week 7\Activity 2 Coin Application\CoinApplication\CoinApplication\bin\Debug\CoinApplication.pdb
+\\staffhome.qut.edu.au\staffgroupr$\roggenka\Desktop\CAB201 S2 2015\Workshops\Week 7\CoinApplication\CoinApplication\obj\Debug\CoinApplication.exe
+\\staffhome.qut.edu.au\staffgroupr$\roggenka\Desktop\CAB201 S2 2015\Workshops\Week 7\CoinApplication\CoinApplication\obj\Debug\CoinApplication.pdb
+\\staffhome.qut.edu.au\staffgroupr$\roggenka\Desktop\CAB201 S2 2015\Workshops\Week 7\CoinApplication\CoinApplication\bin\Debug\CoinApplication.exe
+\\staffhome.qut.edu.au\staffgroupr$\roggenka\Desktop\CAB201 S2 2015\Workshops\Week 7\CoinApplication\CoinApplication\bin\Debug\CoinApplication.pdb
+\\staffhome.qut.edu.au\staffgroupr$\roggenka\Desktop\CAB201 S2 2015\Workshops\Week 7\CoinApplication\CoinApplication\obj\Debug\CoinApplication.csprojResolveAssemblyReference.cache
+E:\_Teaching\2016\CAB201_sem 1 2016\Workshops\Week6\CoinApplication\CoinApplication\CoinApplication\obj\Debug\CoinApplication.exe
+E:\_Teaching\2016\CAB201_sem 1 2016\Workshops\Week6\CoinApplication\CoinApplication\CoinApplication\obj\Debug\CoinApplication.pdb
+E:\_Teaching\2016\2016, TP3_ITD121\_Learning Resources\Week6\Workshop\CoinApplication\CoinApplication\CoinApplication\obj\Debug\CoinApplication.exe
+E:\_Teaching\2016\2016, TP3_ITD121\_Learning Resources\Week6\Workshop\CoinApplication\CoinApplication\CoinApplication\obj\Debug\CoinApplication.pdb
+E:\_Teaching\2017\2017, TP1_ITD121\_Learning Resources\Week6\Prac\CoinApplication\CoinApplication\CoinApplication\obj\Debug\CoinApplication.exe
+E:\_Teaching\2017\2017, TP1_ITD121\_Learning Resources\Week6\Prac\CoinApplication\CoinApplication\CoinApplication\obj\Debug\CoinApplication.pdb

@@ -1,0 +1,24 @@
+\\qut.edu.au\documents\staffhome\staffgroupr$\roggenka\documents\visual studio 2015\Projects\Inheritance of SuperHeroes\Inheritance of SuperHeroes\bin\Debug\Inheritance of SuperHeroes.exe.config
+\\qut.edu.au\documents\staffhome\staffgroupr$\roggenka\documents\visual studio 2015\Projects\Inheritance of SuperHeroes\Inheritance of SuperHeroes\bin\Debug\Inheritance of SuperHeroes.exe
+\\qut.edu.au\documents\staffhome\staffgroupr$\roggenka\documents\visual studio 2015\Projects\Inheritance of SuperHeroes\Inheritance of SuperHeroes\bin\Debug\Inheritance of SuperHeroes.pdb
+\\qut.edu.au\documents\staffhome\staffgroupr$\roggenka\documents\visual studio 2015\Projects\Inheritance of SuperHeroes\Inheritance of SuperHeroes\obj\Debug\Inheritance of SuperHeroes.exe
+\\qut.edu.au\documents\staffhome\staffgroupr$\roggenka\documents\visual studio 2015\Projects\Inheritance of SuperHeroes\Inheritance of SuperHeroes\obj\Debug\Inheritance of SuperHeroes.pdb
+\\qut.edu.au\documents\staffhome\staffgroupr$\roggenka\documents\visual studio 2015\Projects\Inheritance of SuperHeroes\Inheritance of SuperHeroes\obj\Debug\Inheritance of SuperHeroes.csprojResolveAssemblyReference.cache
+\\qut.edu.au\Documents\StaffHome\StaffGroupR$\roggenka\Desktop\CAB201 2016\Projects\SuperHeroes\Inheritance of SuperHeroes\bin\Debug\Inheritance of SuperHeroes.exe.config
+\\qut.edu.au\Documents\StaffHome\StaffGroupR$\roggenka\Desktop\CAB201 2016\Projects\SuperHeroes\Inheritance of SuperHeroes\obj\Debug\Inheritance of SuperHeroes.exe
+\\qut.edu.au\Documents\StaffHome\StaffGroupR$\roggenka\Desktop\CAB201 2016\Projects\SuperHeroes\Inheritance of SuperHeroes\obj\Debug\Inheritance of SuperHeroes.pdb
+\\qut.edu.au\Documents\StaffHome\StaffGroupR$\roggenka\Desktop\CAB201 2016\Projects\SuperHeroes\Inheritance of SuperHeroes\obj\Debug\Inheritance of SuperHeroes.csprojResolveAssemblyReference.cache
+\\qut.edu.au\Documents\StaffHome\StaffGroupR$\roggenka\Desktop\CAB201 2016\Projects\SuperHeroes\Inheritance of SuperHeroes\bin\Debug\Inheritance of SuperHeroes.exe
+\\qut.edu.au\Documents\StaffHome\StaffGroupR$\roggenka\Desktop\CAB201 2016\Projects\SuperHeroes\Inheritance of SuperHeroes\bin\Debug\Inheritance of SuperHeroes.pdb
+E:\_Teaching\2016\2016,2_ITD121 sem 2 2016\_Learning Resources\Workshops\Week8\SuperHeroes\SuperHeroes\Inheritance of SuperHeroes\bin\Debug\Inheritance of SuperHeroes.exe.config
+E:\_Teaching\2016\2016,2_ITD121 sem 2 2016\_Learning Resources\Workshops\Week8\SuperHeroes\SuperHeroes\Inheritance of SuperHeroes\obj\Debug\Inheritance of SuperHeroes.exe
+E:\_Teaching\2016\2016,2_ITD121 sem 2 2016\_Learning Resources\Workshops\Week8\SuperHeroes\SuperHeroes\Inheritance of SuperHeroes\obj\Debug\Inheritance of SuperHeroes.pdb
+E:\_Teaching\2016\2016,2_ITD121 sem 2 2016\_Learning Resources\Workshops\Week8\SuperHeroes - IN PROGRESS\SuperHeroes\Inheritance of SuperHeroes\bin\Debug\Inheritance of SuperHeroes.exe.config
+E:\_Teaching\2016\2016,2_ITD121 sem 2 2016\_Learning Resources\Workshops\Week8\SuperHeroes - IN PROGRESS\SuperHeroes\Inheritance of SuperHeroes\obj\Debug\Inheritance of SuperHeroes.exe
+E:\_Teaching\2016\2016,2_ITD121 sem 2 2016\_Learning Resources\Workshops\Week8\SuperHeroes - IN PROGRESS\SuperHeroes\Inheritance of SuperHeroes\obj\Debug\Inheritance of SuperHeroes.pdb
+E:\_Teaching\2016\2016,2_ITD121 sem 2 2016\_Learning Resources\Workshops\Week8\SuperHeroes - IN PROGRESS\SuperHeroes\Inheritance of SuperHeroes\bin\Debug\Inheritance of SuperHeroes.exe
+E:\_Teaching\2016\2016,2_ITD121 sem 2 2016\_Learning Resources\Workshops\Week8\SuperHeroes - IN PROGRESS\SuperHeroes\Inheritance of SuperHeroes\bin\Debug\Inheritance of SuperHeroes.pdb
+E:\_Teaching\2016\2016,2_ITD121 sem 2 2016\_Learning Resources\Workshops\Week8\SuperHeroes - IN PROGRESS\SuperHeroes\Inheritance of SuperHeroes\obj\Debug\Inheritance of SuperHeroes.csprojResolveAssemblyReference.cache
+E:\_Teaching\2016\2016,2_ITD121 sem 2 2016\_Learning Resources\Workshops\Week8\SuperHeroes\SuperHeroes\Inheritance of SuperHeroes\bin\Debug\Inheritance of SuperHeroes.exe
+E:\_Teaching\2016\2016,2_ITD121 sem 2 2016\_Learning Resources\Workshops\Week8\SuperHeroes\SuperHeroes\Inheritance of SuperHeroes\bin\Debug\Inheritance of SuperHeroes.pdb
+E:\_Teaching\2016\2016,2_ITD121 sem 2 2016\_Learning Resources\Workshops\Week8\SuperHeroes\SuperHeroes\Inheritance of SuperHeroes\obj\Debug\Inheritance of SuperHeroes.csprojResolveAssemblyReference.cache
