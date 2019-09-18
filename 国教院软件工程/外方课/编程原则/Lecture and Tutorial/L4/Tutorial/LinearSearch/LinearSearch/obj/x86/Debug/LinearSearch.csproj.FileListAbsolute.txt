@@ -1,0 +1,22 @@
+C:\Users\roggenka\Desktop\CAB201\2015 Semester 1\Workshops\Week 4\LinearSearch\LinearSearch\bin\Debug\Linear Search.exe
+C:\Users\roggenka\Desktop\CAB201\2015 Semester 1\Workshops\Week 4\LinearSearch\LinearSearch\bin\Debug\Linear Search.pdb
+C:\Users\roggenka\Desktop\CAB201\2015 Semester 1\Workshops\Week 4\LinearSearch\LinearSearch\obj\x86\Debug\LinearSearch.csprojResolveAssemblyReference.cache
+C:\Users\roggenka\Desktop\CAB201\2015 Semester 1\Workshops\Week 4\LinearSearch\LinearSearch\obj\x86\Debug\Linear Search.exe
+C:\Users\roggenka\Desktop\CAB201\2015 Semester 1\Workshops\Week 4\LinearSearch\LinearSearch\obj\x86\Debug\Linear Search.pdb
+\\staffhome.qut.edu.au\staffgroupr$\roggenka\Desktop\CAB201 S2 2015\Workshops\Week 4\LinearSearch\LinearSearch\obj\x86\Debug\Linear Search.exe
+\\staffhome.qut.edu.au\staffgroupr$\roggenka\Desktop\CAB201 S2 2015\Workshops\Week 4\LinearSearch\LinearSearch\obj\x86\Debug\Linear Search.pdb
+\\staffhome.qut.edu.au\staffgroupr$\roggenka\Desktop\CAB201 S2 2015\Workshops\Week 4\LinearSearch\LinearSearch\bin\Debug\Linear Search.exe
+\\staffhome.qut.edu.au\staffgroupr$\roggenka\Desktop\CAB201 S2 2015\Workshops\Week 4\LinearSearch\LinearSearch\bin\Debug\Linear Search.pdb
+\\staffhome.qut.edu.au\staffgroupr$\roggenka\Desktop\CAB201 S2 2015\Workshops\Week 4\LinearSearch\LinearSearch\obj\x86\Debug\LinearSearch.csprojResolveAssemblyReference.cache
+\\qut.edu.au\Documents\StaffHome\StaffGroupR$\roggenka\Desktop\CAB201 2016\Sem 1\Worksheets\Week 4\LinearSearch\LinearSearch\obj\x86\Debug\Linear Search.exe
+\\qut.edu.au\Documents\StaffHome\StaffGroupR$\roggenka\Desktop\CAB201 2016\Sem 1\Worksheets\Week 4\LinearSearch\LinearSearch\obj\x86\Debug\Linear Search.pdb
+\\qut.edu.au\Documents\StaffHome\StaffGroupR$\roggenka\Desktop\CAB201 2016\Sem 1\Worksheets\Week 4\LinearSearch\LinearSearch\bin\Debug\Linear Search.exe
+\\qut.edu.au\Documents\StaffHome\StaffGroupR$\roggenka\Desktop\CAB201 2016\Sem 1\Worksheets\Week 4\LinearSearch\LinearSearch\bin\Debug\Linear Search.pdb
+\\qut.edu.au\Documents\StaffHome\StaffGroupR$\roggenka\Desktop\CAB201 2016\Sem 1\Worksheets\Week 4\LinearSearch\LinearSearch\obj\x86\Debug\LinearSearch.csprojResolveAssemblyReference.cache
+E:\_Teaching\2016\2016,2_ITD121 sem 2 2016\_Learning Resources\Workshops\Week11\LinearSearch\LinearSearch\LinearSearch\obj\x86\Debug\Linear Search.exe
+E:\_Teaching\2016\2016,2_ITD121 sem 2 2016\_Learning Resources\Workshops\Week11\LinearSearch\LinearSearch\LinearSearch\obj\x86\Debug\Linear Search.pdb
+E:\_Teaching\2016\2016,2_ITD121 sem 2 2016\_Learning Resources\Workshops\Week11\LinearSearch\LinearSearch\LinearSearch\bin\Debug\Linear Search.exe
+E:\_Teaching\2016\2016,2_ITD121 sem 2 2016\_Learning Resources\Workshops\Week11\LinearSearch\LinearSearch\LinearSearch\bin\Debug\Linear Search.pdb
+E:\_Teaching\2016\2016,2_ITD121 sem 2 2016\_Learning Resources\Workshops\Week11\LinearSearch\LinearSearch\LinearSearch\obj\x86\Debug\LinearSearch.csprojResolveAssemblyReference.cache
+E:\_Teaching\2017\2017, TP1_ITD121\_Learning Resources\Week11\Prac\LinearSearch\LinearSearch\obj\x86\Debug\Linear Search.exe
+E:\_Teaching\2017\2017, TP1_ITD121\_Learning Resources\Week11\Prac\LinearSearch\LinearSearch\obj\x86\Debug\Linear Search.pdb

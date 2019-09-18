@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{2155EA46-702F-40FC-8BD2-241523B32919}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Inheritance of SuperHeroes/Properties/AssemblyInfo.cs">
+    <Files>
+      <File FileName="Inheritance of SuperHeroes/SuperHero.cs" Line="1" Column="1" />
+      <File FileName="Inheritance of SuperHeroes/Program.cs" Line="1" Column="1" />
+      <File FileName="Inheritance of SuperHeroes/App.config" Line="1" Column="1" />
+      <File FileName="Inheritance of SuperHeroes/Properties/AssemblyInfo.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Inheritance of SuperHeroes" expanded="True">
+            <Node name="Inheritance of SuperHeroes" expanded="True">
+              <Node name="Properties" expanded="True">
+                <Node name="AssemblyInfo.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Inheritance_220of_220SuperHeroes PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,5 @@
+G:\FOR STUDENTS\L1\Tutorial\SimpleTempConversion_Tutorial1 Exercise_WITH BUG\SimpleTempConversion_Tutorial2 Exercise_WITH BUG\SimpleTempConversion\SimpleTempConversion\bin\Debug\SimpleTempConversion.exe
+G:\FOR STUDENTS\L1\Tutorial\SimpleTempConversion_Tutorial1 Exercise_WITH BUG\SimpleTempConversion_Tutorial2 Exercise_WITH BUG\SimpleTempConversion\SimpleTempConversion\bin\Debug\SimpleTempConversion.pdb
+G:\FOR STUDENTS\L1\Tutorial\SimpleTempConversion_Tutorial1 Exercise_WITH BUG\SimpleTempConversion_Tutorial2 Exercise_WITH BUG\SimpleTempConversion\SimpleTempConversion\obj\Debug\SimpleTempConversion.csprojResolveAssemblyReference.cache
+G:\FOR STUDENTS\L1\Tutorial\SimpleTempConversion_Tutorial1 Exercise_WITH BUG\SimpleTempConversion_Tutorial2 Exercise_WITH BUG\SimpleTempConversion\SimpleTempConversion\obj\Debug\SimpleTempConversion.exe
+G:\FOR STUDENTS\L1\Tutorial\SimpleTempConversion_Tutorial1 Exercise_WITH BUG\SimpleTempConversion_Tutorial2 Exercise_WITH BUG\SimpleTempConversion\SimpleTempConversion\obj\Debug\SimpleTempConversion.pdb

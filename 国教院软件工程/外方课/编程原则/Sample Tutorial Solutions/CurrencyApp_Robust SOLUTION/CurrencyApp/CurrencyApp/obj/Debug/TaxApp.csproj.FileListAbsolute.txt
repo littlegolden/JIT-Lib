@@ -1,0 +1,12 @@
+E:\Kim's teaching\QUT IC\IND270 Object Oriented Programming\Lesson notes\Week 09 - GUI\New folder\TaxApp\TaxApp\bin\Debug\TaxApp.exe.config
+E:\Kim's teaching\QUT IC\IND270 Object Oriented Programming\Lesson notes\Week 09 - GUI\New folder\TaxApp\TaxApp\bin\Debug\TaxApp.exe
+E:\Kim's teaching\QUT IC\IND270 Object Oriented Programming\Lesson notes\Week 09 - GUI\New folder\TaxApp\TaxApp\bin\Debug\TaxApp.pdb
+E:\Kim's teaching\QUT IC\IND270 Object Oriented Programming\Lesson notes\Week 09 - GUI\New folder\TaxApp\TaxApp\obj\Debug\TaxApp.csprojResolveAssemblyReference.cache
+E:\Kim's teaching\QUT IC\IND270 Object Oriented Programming\Lesson notes\Week 09 - GUI\New folder\TaxApp\TaxApp\obj\Debug\TaxApp.FormTaxApp.resources
+E:\Kim's teaching\QUT IC\IND270 Object Oriented Programming\Lesson notes\Week 09 - GUI\New folder\TaxApp\TaxApp\obj\Debug\TaxApp.Properties.Resources.resources
+E:\Kim's teaching\QUT IC\IND270 Object Oriented Programming\Lesson notes\Week 09 - GUI\New folder\TaxApp\TaxApp\obj\Debug\TaxApp.csproj.GenerateResource.Cache
+E:\Kim's teaching\QUT IC\IND270 Object Oriented Programming\Lesson notes\Week 09 - GUI\New folder\TaxApp\TaxApp\obj\Debug\TaxApp.exe
+E:\Kim's teaching\QUT IC\IND270 Object Oriented Programming\Lesson notes\Week 09 - GUI\New folder\TaxApp\TaxApp\obj\Debug\TaxApp.pdb
+E:\Kim's teaching\QUT IC\IND270 Object Oriented Programming\Lesson notes\Week 09 - GUI\DiscountApp\TaxApp\bin\Debug\TaxApp.exe.config
+E:\Kim's teaching\QUT IC\IND270 Object Oriented Programming\Lesson notes\Week 09 - GUI\DiscountApp\TaxApp\obj\Debug\TaxApp.exe
+E:\Kim's teaching\QUT IC\IND270 Object Oriented Programming\Lesson notes\Week 09 - GUI\DiscountApp\TaxApp\obj\Debug\TaxApp.pdb

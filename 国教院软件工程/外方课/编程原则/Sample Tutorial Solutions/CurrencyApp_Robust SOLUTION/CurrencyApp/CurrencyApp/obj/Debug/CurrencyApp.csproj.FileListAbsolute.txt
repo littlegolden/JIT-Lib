@@ -1,0 +1,70 @@
+E:\Kim's teaching\QUT IC\IND270 Object Oriented Programming\Lesson notes\Week 09 - GUI\CurrencyApp\CurrencyApp\bin\Debug\TaxApp.exe.config
+E:\Kim's teaching\QUT IC\IND270 Object Oriented Programming\Lesson notes\Week 09 - GUI\CurrencyApp\CurrencyApp\obj\Debug\TaxApp.exe
+E:\Kim's teaching\QUT IC\IND270 Object Oriented Programming\Lesson notes\Week 09 - GUI\CurrencyApp\CurrencyApp\obj\Debug\TaxApp.pdb
+E:\Kim's teaching\QUT IC\IND270 Object Oriented Programming\Lesson notes\Week 09 - GUI\CurrencyApp\CurrencyApp\obj\Debug\CurrencyApp.csprojResolveAssemblyReference.cache
+E:\Kim's teaching\QUT IC\IND270 Object Oriented Programming\Lesson notes\Week 09 - GUI\CurrencyApp\CurrencyApp\obj\Debug\CurrencyApp.FormCurrencyApp.resources
+E:\Kim's teaching\QUT IC\IND270 Object Oriented Programming\Lesson notes\Week 09 - GUI\CurrencyApp\CurrencyApp\obj\Debug\TaxApp.Properties.Resources.resources
+E:\Kim's teaching\QUT IC\IND270 Object Oriented Programming\Lesson notes\Week 09 - GUI\CurrencyApp\CurrencyApp\obj\Debug\CurrencyApp.csproj.GenerateResource.Cache
+E:\Kim's teaching\QUT IC\IND270 Object Oriented Programming\Lesson notes\Week 09 - GUI\CurrencyApp\CurrencyApp\bin\Debug\TaxApp.exe
+E:\Kim's teaching\QUT IC\IND270 Object Oriented Programming\Lesson notes\Week 09 - GUI\CurrencyApp\CurrencyApp\bin\Debug\TaxApp.pdb
+G:\Kim's teaching\QUT IC\ITD121 Programming Principles\Lesson notes\Week 05 - Graphical User Interface\CurrencyApp\CurrencyApp\bin\Debug\TaxApp.exe.config
+G:\Kim's teaching\QUT IC\ITD121 Programming Principles\Lesson notes\Week 05 - Graphical User Interface\CurrencyApp\CurrencyApp\obj\Debug\TaxApp.exe
+G:\Kim's teaching\QUT IC\ITD121 Programming Principles\Lesson notes\Week 05 - Graphical User Interface\CurrencyApp\CurrencyApp\obj\Debug\TaxApp.pdb
+G:\Kim's teaching\QUT IC\ITD121 Programming Principles\Lesson notes\Week 05 - Graphical User Interface\CurrencyApp\CurrencyApp\bin\Debug\TaxApp.exe
+G:\Kim's teaching\QUT IC\ITD121 Programming Principles\Lesson notes\Week 05 - Graphical User Interface\CurrencyApp\CurrencyApp\bin\Debug\TaxApp.pdb
+G:\Kim's teaching\QUT IC\ITD121 Programming Principles\Lesson notes\Week 05 - Graphical User Interface\CurrencyApp\CurrencyApp\obj\Debug\CurrencyApp.csprojResolveAssemblyReference.cache
+G:\Kim's teaching\QUT IC\ITD121 Programming Principles\Lesson notes\Week 05 - Graphical User Interface\CurrencyApp\CurrencyApp\obj\Debug\CurrencyApp.FormCurrencyApp.resources
+G:\Kim's teaching\QUT IC\ITD121 Programming Principles\Lesson notes\Week 05 - Graphical User Interface\CurrencyApp\CurrencyApp\obj\Debug\TaxApp.Properties.Resources.resources
+G:\Kim's teaching\QUT IC\ITD121 Programming Principles\Lesson notes\Week 05 - Graphical User Interface\CurrencyApp\CurrencyApp\obj\Debug\CurrencyApp.csproj.GenerateResource.Cache
+E:\_Teaching\2016\2016,2_ITD121 sem 2 2016\_Learning Resources\Workshops\Week7\CurrencyApp\CurrencyApp\CurrencyApp\bin\Debug\TaxApp.exe.config
+E:\_Teaching\2016\2016,2_ITD121 sem 2 2016\_Learning Resources\Workshops\Week7\CurrencyApp\CurrencyApp\CurrencyApp\obj\Debug\TaxApp.exe
+E:\_Teaching\2016\2016,2_ITD121 sem 2 2016\_Learning Resources\Workshops\Week7\CurrencyApp\CurrencyApp\CurrencyApp\obj\Debug\TaxApp.pdb
+E:\_Teaching\2016\2016,2_ITD121 sem 2 2016\_Learning Resources\Workshops\Week7\CurrencyApp\CurrencyApp\CurrencyApp\bin\Debug\TaxApp.exe
+E:\_Teaching\2016\2016,2_ITD121 sem 2 2016\_Learning Resources\Workshops\Week7\CurrencyApp\CurrencyApp\CurrencyApp\bin\Debug\TaxApp.pdb
+E:\_Teaching\2016\2016,2_ITD121 sem 2 2016\_Learning Resources\Workshops\Week7\CurrencyApp\CurrencyApp\CurrencyApp\obj\Debug\CurrencyApp.csprojResolveAssemblyReference.cache
+E:\_Teaching\2016\2016,2_ITD121 sem 2 2016\_Learning Resources\Workshops\Week7\CurrencyApp\CurrencyApp\CurrencyApp\obj\Debug\CurrencyApp.FormCurrencyApp.resources
+E:\_Teaching\2016\2016,2_ITD121 sem 2 2016\_Learning Resources\Workshops\Week7\CurrencyApp\CurrencyApp\CurrencyApp\obj\Debug\TaxApp.Properties.Resources.resources
+E:\_Teaching\2016\2016,2_ITD121 sem 2 2016\_Learning Resources\Workshops\Week7\CurrencyApp\CurrencyApp\CurrencyApp\obj\Debug\CurrencyApp.csproj.GenerateResource.Cache
+D:\_Teaching\2016\2016,2_ITD121 sem 2 2016\_Learning Resources\Workshops\Week7\CurrencyApp_SOLUTION\CurrencyApp\CurrencyApp\bin\Debug\TaxApp.exe.config
+D:\_Teaching\2016\2016,2_ITD121 sem 2 2016\_Learning Resources\Workshops\Week7\CurrencyApp_SOLUTION\CurrencyApp\CurrencyApp\obj\Debug\TaxApp.exe
+D:\_Teaching\2016\2016,2_ITD121 sem 2 2016\_Learning Resources\Workshops\Week7\CurrencyApp_SOLUTION\CurrencyApp\CurrencyApp\obj\Debug\TaxApp.pdb
+D:\_Teaching\2016\2016,2_ITD121 sem 2 2016\_Learning Resources\Workshops\Week7\CurrencyApp_SOLUTION\CurrencyApp\CurrencyApp\bin\Debug\TaxApp.exe
+D:\_Teaching\2016\2016,2_ITD121 sem 2 2016\_Learning Resources\Workshops\Week7\CurrencyApp_SOLUTION\CurrencyApp\CurrencyApp\bin\Debug\TaxApp.pdb
+D:\_Teaching\2016\2016,2_ITD121 sem 2 2016\_Learning Resources\Workshops\Week7\CurrencyApp_SOLUTION\CurrencyApp\CurrencyApp\obj\Debug\CurrencyApp.csprojResolveAssemblyReference.cache
+D:\_Teaching\2016\2016,2_ITD121 sem 2 2016\_Learning Resources\Workshops\Week7\CurrencyApp_SOLUTION\CurrencyApp\CurrencyApp\obj\Debug\CurrencyApp.FormCurrencyApp.resources
+D:\_Teaching\2016\2016,2_ITD121 sem 2 2016\_Learning Resources\Workshops\Week7\CurrencyApp_SOLUTION\CurrencyApp\CurrencyApp\obj\Debug\TaxApp.Properties.Resources.resources
+D:\_Teaching\2016\2016,2_ITD121 sem 2 2016\_Learning Resources\Workshops\Week7\CurrencyApp_SOLUTION\CurrencyApp\CurrencyApp\obj\Debug\CurrencyApp.csproj.GenerateResource.Cache
+E:\_Teaching\2016\2016,2_ITD121 sem 2 2016\_Learning Resources\Workshops\Week10\CurrencyApp_IO\CurrencyApp\CurrencyApp\bin\Debug\TaxApp.exe.config
+E:\_Teaching\2016\2016,2_ITD121 sem 2 2016\_Learning Resources\Workshops\Week10\CurrencyApp_IO\CurrencyApp\CurrencyApp\obj\Debug\TaxApp.exe
+E:\_Teaching\2016\2016,2_ITD121 sem 2 2016\_Learning Resources\Workshops\Week10\CurrencyApp_IO\CurrencyApp\CurrencyApp\obj\Debug\TaxApp.pdb
+E:\_Teaching\2016\2016,2_ITD121 sem 2 2016\_Learning Resources\Workshops\Week10\CurrencyApp_IO\CurrencyApp\CurrencyApp\bin\Debug\TaxApp.exe
+E:\_Teaching\2016\2016,2_ITD121 sem 2 2016\_Learning Resources\Workshops\Week10\CurrencyApp_IO\CurrencyApp\CurrencyApp\bin\Debug\TaxApp.pdb
+E:\_Teaching\2016\2016,2_ITD121 sem 2 2016\_Learning Resources\Workshops\Week10\CurrencyApp_IO\CurrencyApp\CurrencyApp\obj\Debug\CurrencyApp.csprojResolveAssemblyReference.cache
+E:\_Teaching\2016\2016,2_ITD121 sem 2 2016\_Learning Resources\Workshops\Week10\CurrencyApp_IO\CurrencyApp\CurrencyApp\obj\Debug\CurrencyApp.FormCurrencyApp.resources
+E:\_Teaching\2016\2016,2_ITD121 sem 2 2016\_Learning Resources\Workshops\Week10\CurrencyApp_IO\CurrencyApp\CurrencyApp\obj\Debug\TaxApp.Properties.Resources.resources
+E:\_Teaching\2016\2016,2_ITD121 sem 2 2016\_Learning Resources\Workshops\Week10\CurrencyApp_IO\CurrencyApp\CurrencyApp\obj\Debug\CurrencyApp.csproj.GenerateResource.Cache
+D:\_Teaching\2016\2016,2_ITD121 sem 2 2016\_Learning Resources\Workshops\Week10\CurrencyApp_IO\CurrencyApp\CurrencyApp\bin\Debug\TaxApp.exe.config
+D:\_Teaching\2016\2016,2_ITD121 sem 2 2016\_Learning Resources\Workshops\Week10\CurrencyApp_IO\CurrencyApp\CurrencyApp\obj\Debug\TaxApp.exe
+D:\_Teaching\2016\2016,2_ITD121 sem 2 2016\_Learning Resources\Workshops\Week10\CurrencyApp_IO\CurrencyApp\CurrencyApp\obj\Debug\TaxApp.pdb
+D:\_Teaching\2016\2016,2_ITD121 sem 2 2016\_Learning Resources\Workshops\Week10\CurrencyApp_IO\CurrencyApp\CurrencyApp\bin\Debug\TaxApp.exe
+D:\_Teaching\2016\2016,2_ITD121 sem 2 2016\_Learning Resources\Workshops\Week10\CurrencyApp_IO\CurrencyApp\CurrencyApp\bin\Debug\TaxApp.pdb
+D:\_Teaching\2016\2016,2_ITD121 sem 2 2016\_Learning Resources\Workshops\Week10\CurrencyApp_IO\CurrencyApp\CurrencyApp\obj\Debug\CurrencyApp.csprojResolveAssemblyReference.cache
+D:\_Teaching\2016\2016,2_ITD121 sem 2 2016\_Learning Resources\Workshops\Week10\CurrencyApp_IO\CurrencyApp\CurrencyApp\obj\Debug\CurrencyApp.FormCurrencyApp.resources
+D:\_Teaching\2016\2016,2_ITD121 sem 2 2016\_Learning Resources\Workshops\Week10\CurrencyApp_IO\CurrencyApp\CurrencyApp\obj\Debug\TaxApp.Properties.Resources.resources
+D:\_Teaching\2016\2016,2_ITD121 sem 2 2016\_Learning Resources\Workshops\Week10\CurrencyApp_IO\CurrencyApp\CurrencyApp\obj\Debug\CurrencyApp.csproj.GenerateResource.Cache
+E:\_Teaching\2017\2017, TP1_ITD121\_Learning Resources\Week10\Prac\CurrencyApp_IO\CurrencyApp\CurrencyApp\bin\Debug\TaxApp.exe.config
+E:\_Teaching\2017\2017, TP1_ITD121\_Learning Resources\Week10\Prac\CurrencyApp_IO\CurrencyApp\CurrencyApp\obj\Debug\TaxApp.exe
+E:\_Teaching\2017\2017, TP1_ITD121\_Learning Resources\Week10\Prac\CurrencyApp_IO\CurrencyApp\CurrencyApp\obj\Debug\TaxApp.pdb
+E:\_Teaching\2018\JIT121_2018 October\_Learning Resources\L7\Tutorial\CurrencyApp_Exception\CurrencyApp\CurrencyApp\bin\Debug\TaxApp.exe.config
+E:\_Teaching\2018\JIT121_2018 October\_Learning Resources\L7\Tutorial\CurrencyApp_Exception\CurrencyApp\CurrencyApp\obj\Debug\TaxApp.exe
+E:\_Teaching\2018\JIT121_2018 October\_Learning Resources\L7\Tutorial\CurrencyApp_Exception\CurrencyApp\CurrencyApp\obj\Debug\TaxApp.pdb
+E:\_Teaching\2019\2019, JIT121 June\_Learning Resources\L7\Tutorial\CurrencyApp_Robust\CurrencyApp\CurrencyApp\bin\Debug\TaxApp.exe.config
+E:\_Teaching\2019\2019, JIT121 June\_Learning Resources\L7\Tutorial\CurrencyApp_Robust\CurrencyApp\CurrencyApp\bin\Debug\TaxApp.exe
+E:\_Teaching\2019\2019, JIT121 June\_Learning Resources\L7\Tutorial\CurrencyApp_Robust\CurrencyApp\CurrencyApp\bin\Debug\TaxApp.pdb
+E:\_Teaching\2019\2019, JIT121 June\_Learning Resources\L7\Tutorial\CurrencyApp_Robust\CurrencyApp\CurrencyApp\obj\Debug\CurrencyApp.csprojAssemblyReference.cache
+E:\_Teaching\2019\2019, JIT121 June\_Learning Resources\L7\Tutorial\CurrencyApp_Robust\CurrencyApp\CurrencyApp\obj\Debug\CurrencyApp.FormCurrencyApp.resources
+E:\_Teaching\2019\2019, JIT121 June\_Learning Resources\L7\Tutorial\CurrencyApp_Robust\CurrencyApp\CurrencyApp\obj\Debug\TaxApp.Properties.Resources.resources
+E:\_Teaching\2019\2019, JIT121 June\_Learning Resources\L7\Tutorial\CurrencyApp_Robust\CurrencyApp\CurrencyApp\obj\Debug\CurrencyApp.csproj.GenerateResource.cache
+E:\_Teaching\2019\2019, JIT121 June\_Learning Resources\L7\Tutorial\CurrencyApp_Robust\CurrencyApp\CurrencyApp\obj\Debug\CurrencyApp.csproj.CoreCompileInputs.cache
+E:\_Teaching\2019\2019, JIT121 June\_Learning Resources\L7\Tutorial\CurrencyApp_Robust\CurrencyApp\CurrencyApp\obj\Debug\TaxApp.exe
+E:\_Teaching\2019\2019, JIT121 June\_Learning Resources\L7\Tutorial\CurrencyApp_Robust\CurrencyApp\CurrencyApp\obj\Debug\TaxApp.pdb
